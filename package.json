@@ -115,6 +115,13 @@
         "type": "string"
       },
       "order": 8
+    },
+    "localPrettier": {
+      "title": "Local prettier",
+      "description": "Use a local install of prettier instead of the global install",
+      "type": "boolean",
+      "default": true,
+      "order": 9
     }
   }
 }
